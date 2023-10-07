@@ -1348,8 +1348,7 @@ input, select, textarea {
 		}
 
 			#header nav ul li {
-				padding-right: 2.5px;
-				padding-left: 0;
+				padding-left: 3px;
 				border-left: solid 1px #ffffff;
 			}
 
